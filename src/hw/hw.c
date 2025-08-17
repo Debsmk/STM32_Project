@@ -15,8 +15,6 @@ void hwInit(void)
 {
   bspInit();
 
-
-
-
+  ledInit();
 
 }
